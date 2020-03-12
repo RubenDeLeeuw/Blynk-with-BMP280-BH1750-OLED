@@ -1,0 +1,6 @@
+pins:
+
+-GND = GND
+-VCC = VCC
+-SDA = 21
+-SCL = 22
